@@ -42,6 +42,6 @@ Make sure you have Node.js and npm (Node Package Manager) installed on your syst
    ```bash
    npm run dev
 
-2. Open your web browser and visit  http://localhost:5173/ to play the game.
+2. Open your web browser and visit  http://localhost:5173/ to play the game locally or you can access the web version at https://tlee-brick-breaker.netlify.app/
 
   
