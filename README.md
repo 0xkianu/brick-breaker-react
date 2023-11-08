@@ -16,7 +16,6 @@ The Brick Breaker App is a classic game where you control a paddle to bounce a b
 ## Features
 - Classic brick-breaking gameplay.
 - Colorful and engaging graphics.
-- Multiple levels and power-ups.
 - High scores tracking.
 
 ## Getting Started
